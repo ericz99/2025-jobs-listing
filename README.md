@@ -1,0 +1,8 @@
+# All / New Job Position
+Use this repo to share and keep track of entry-level software, tech, CS, PM, quant jobs for 2024 & 2025 new graduates.
+
+The job list are automatically maintained by my cron job and will update everyday @ 12PM EST.
+
+> To request additional companies to be monitored, add an issue.
+
+WIP
